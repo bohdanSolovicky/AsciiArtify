@@ -17,6 +17,7 @@
 
 :heavy_plus_sign: Легкий у використанні
 
+
 :heavy_minus_sign: Повільний
 
 :heavy_minus_sign: необхідна підтримка VM
@@ -30,6 +31,7 @@
 :heavy_plus_sign: Швидкий
 
 :heavy_plus_sign: Легкий
+
 
 :heavy_minus_sign: Працює тільки з Docker
 
