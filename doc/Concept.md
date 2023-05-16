@@ -56,6 +56,10 @@
 | Memory | 2Gb | 8Gb | 512 Mb |
 | Architectures | AMD64 | AMD64 | AMD64, ARMv7, ARM64 |
 
+# Демонстрація
+
+![demo](https://github.com/bohdanSolovicky/AsciiArtify/blob/main/demo.gif)
+
 # Висновок
 
 Пропоную використовувати для проєкту k3d, як той. що задовільняє максимально широкі потреби та закриває всі необхідні питання.
